@@ -26,4 +26,4 @@
 
 🙏 Thanks for visiting! Feel free to explore my repositories and connect with me. Let's build and learn together. Happy coding! 🚀
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=25&pause=1500&color=F70000&width=435&lines=Happy+Coding!+%F0%9F%9A%80)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=25&pause=1500&color=F70000&width=435&lines=Happy+Coding!+%F0%9F%9A%80)](https://github.com/ManolisG11)
