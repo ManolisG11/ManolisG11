@@ -20,7 +20,7 @@
 
 🤝 **Collaboration:** I'm open to collaborating with like-minded developers and tech enthusiasts. If you have an interesting project or idea, let's connect and bring it to life!
 
-📫 **Contact:** Feel free to reach out to me via email (mailto:emgeorgat11@gmail.com) or connect with me on LinkedIn (Your LinkedIn Profile).
+📫 **Contact:** Feel free to reach out to me via email (emgeorgat11@gmail.com).
 
 📈 **New Projects:** I'm committed to making the tech world a better place one line of code at a time.
 
